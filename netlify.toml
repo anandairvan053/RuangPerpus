@@ -1,7 +1,7 @@
 [build]
-command = "npm run start:server"
-publish = "/build"
-base = "/"
+command = "npm run build" # Perintah build untuk aplikasi client
+functions = "client" # Folder untuk serverless functions
+publish = "/" # Folder output dari build aplikasi client
 
 [[redirects]]
 from = "/*"
