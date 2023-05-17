@@ -90,6 +90,20 @@
       "author": "Andrea Hirata",
       "year": 2010,
       "quantity": 2
+    },
+    {
+      "id": 14,
+      "title": "Ronggeng Dukuh Paruk",
+      "author": "Ahmad Tohari",
+      "year": 1982,
+      "quantity": 8
+    },
+    {
+      "id": 15,
+      "title": "Lelaki Harimau",
+      "author": "Eka Kurniawan",
+      "year": 2004,
+      "quantity": 3
     }
   ]
 }
