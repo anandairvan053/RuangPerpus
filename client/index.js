@@ -207,16 +207,16 @@ function generateRows(books) {
 
     /*
       looping books, untuk setiap book, buat row seperti ini:
-      <tr class="book-item">
-        <td class="px-6 py-4 border-b">Judul Buku</td>
-        <td class="px-6 py-4 border-b">Penulis Buku</td>
-        <td class="px-6 py-4 border-b">Tahun Terbit</td>
-        <td class="px-6 py-4 border-b">Jumlah Stok</td>
-        <td class="px-6 py-4 border-b text-center">
-          <button class="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="handleClickEditButton(BookId)">Edit</button>
-          <button class="inline-block bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded" onclick="handleClickDeleteButton(BookId)">Hapus</button>  
-        </td>
-      </tr>
+      // <tr class="book-item">
+      //   <td class="px-6 py-4 border-b">Judul Buku</td>
+      //   <td class="px-6 py-4 border-b">Penulis Buku</td>
+      //   <td class="px-6 py-4 border-b">Tahun Terbit</td>
+      //   <td class="px-6 py-4 border-b">Jumlah Stok</td>
+      //   <td class="px-6 py-4 border-b text-center">
+      //     <button class="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onclick="handleClickEditButton(BookId)">Edit</button>
+      //     <button class="inline-block bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded" onclick="handleClickDeleteButton(BookId)">Hapus</button>  
+      //   </td>
+      // </tr>
       Jangan lupa untuk ganti BookId dengan id dari book yang sedang di looping
       simpan row yang dibuat ke variabel rows
     */

@@ -10,6 +10,6 @@ const studentName = 'Ananda Irvan Tri Kurniawan'; // TODO: replace this
 
 const studentId = 'FE4239922'; // TODO: replace this
 
-const NetlifyDeployUrl = 'finalruangperpus.netlify.app'; // TODO: replace this
+const NetlifyDeployUrl = 'https://finalruangperpus.netlify.app'; // TODO: replace this
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };

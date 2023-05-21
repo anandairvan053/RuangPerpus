@@ -104,6 +104,13 @@
       "author": "Eka Kurniawan",
       "year": 2004,
       "quantity": 3
+    },
+    {
+      "id": 16,
+      "title": "Transformer",
+      "author": "Ananda",
+      "year": 2035,
+      "quantity": 64
     }
   ]
 }
