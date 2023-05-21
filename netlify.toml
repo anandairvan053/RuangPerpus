@@ -1,6 +1,6 @@
 [build]
 command = "npm run start:server"
-functions = "client/"
+functions = "server/"
 
 [[redirects]]
 from = "server/db.json"
